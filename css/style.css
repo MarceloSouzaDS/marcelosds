@@ -1,0 +1,43 @@
+
+body{
+    background-image: url("../../assets/background.jpg");
+   
+}
+.nBar{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin:0 auto;
+    padding:0 1%;
+    background-color:rgba(235, 231, 245, 0.212);
+
+}
+.txtNome{
+    width:50%;
+    text-align: left;
+    font-size: 300%;
+    color: rgb(236, 248, 243);
+}
+.menu{
+    text-align: right;
+    align-self:center;
+}
+.menu a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: none;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+p{
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+}
+h1{
+    color:rgb(0, 248, 0);
+}
+h2{
+    color:rgb(0, 248, 0);
+}
+
